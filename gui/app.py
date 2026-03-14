@@ -14,7 +14,7 @@ class SpendIQApp(tk.Tk):
         super().__init__()
         self.title("SpendIQ")
         self.geometry("900x620")
-        self.resizable(False, False)
+        self.resizable(True, True)
         self.configure(bg=COLORS["bg"])
         self._build()
         self._refresh()
