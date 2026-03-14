@@ -1,0 +1,13 @@
+{
+  "expenses": [
+    {
+      "id": "20260314155410254867",
+      "title": "1200",
+      "amount": 20.0,
+      "category": "🍔 Yemek",
+      "date": "2026-03-14",
+      "note": "cc"
+    }
+  ],
+  "budget": 0
+}
