@@ -7,7 +7,15 @@
       "category": "🍔 Yemek",
       "date": "2026-03-14",
       "note": "cc"
+    },
+    {
+      "id": "20260314160459070667",
+      "title": "iiftar yemegi",
+      "amount": 500.0,
+      "category": "🍔 Yemek",
+      "date": "2026-03-14",
+      "note": ""
     }
   ],
-  "budget": 0
+  "budget": 10000.0
 }
